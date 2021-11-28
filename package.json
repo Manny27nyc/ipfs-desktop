@@ -86,7 +86,7 @@
     "i18next-electron-language-detector": "0.0.10",
     "i18next-fs-backend": "1.1.1",
     "i18next-icu": "^2.0.3",
-    "intl-messageformat": "^9.9.2",
+    "intl-messageformat": "^9.9.4",
     "ipfs-http-client": "47.0.1",
     "ipfsd-ctl": "^7.2.0",
     "is-ipfs": "^3.0.0",
